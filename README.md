@@ -2,4 +2,4 @@
 
 ## Members
 Brian Hare
-
+Kendall Bingham
