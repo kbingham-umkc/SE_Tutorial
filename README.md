@@ -1,4 +1,4 @@
 # SE_Tutorial
 
 ## Members
-Kendall Bingham
+Brian Hare
